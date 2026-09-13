@@ -1,0 +1,50 @@
+[
+  {
+    "name": "minima-3b",
+    "input_price": 0.1,
+    "output_price": 0.2,
+    "strength": [
+      "qa",
+      "creative"
+    ]
+  },
+  {
+    "name": "workhorse-8b",
+    "input_price": 0.3,
+    "output_price": 0.6,
+    "strength": [
+      "qa",
+      "math",
+      "creative"
+    ]
+  },
+  {
+    "name": "coder-7b",
+    "input_price": 0.3,
+    "output_price": 0.9,
+    "strength": [
+      "code"
+    ]
+  },
+  {
+    "name": "frontier-pro",
+    "input_price": 3.0,
+    "output_price": 15.0,
+    "strength": [
+      "math",
+      "code",
+      "reasoning"
+    ]
+  },
+  {
+    "name": "frontier-mini",
+    "input_price": 0.15,
+    "output_price": 0.6,
+    "strength": [
+      "qa",
+      "math",
+      "creative",
+      "reasoning"
+    ]
+  }
+]

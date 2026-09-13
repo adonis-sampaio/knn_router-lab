@@ -1,0 +1,8 @@
+streamlit>=1.35
+sentence-transformers>=2.7
+faiss-cpu>=1.8
+plotly>=5.20
+scikit-learn>=1.4
+umap-learn>=0.5
+pandas>=2.0
+numpy>=1.26
